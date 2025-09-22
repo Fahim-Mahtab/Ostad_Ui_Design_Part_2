@@ -17,7 +17,7 @@ This repository contains assignments and exercises focused on Flutter UI design 
 This project is a continuation of the Ostad UI Design curriculum. It showcases practical implementations of UI components, custom layouts, and themes in Flutter. The goal is to help learners strengthen their UI skills and apply advanced design patterns in real-world applications.
 
 ## Assignment Task (Done)
-![Assignment Task](images/Assignment .png)
+![Assignment Task](images/Assignment.png)
 
 This was the assignment for Module 13:  
 You had to design the UI shown above with 2 cards in each row and try to match the design at least 70%.
