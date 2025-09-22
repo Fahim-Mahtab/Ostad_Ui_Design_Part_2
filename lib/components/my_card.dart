@@ -53,7 +53,7 @@ class MyCard extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.only(left: 10),
                 child: Text(
-                  course.description,
+                  course.description,style: TextStyle(fontWeight: FontWeight.bold),
                 ),
               ),
             ],
